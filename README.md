@@ -9,3 +9,5 @@ enigma2 kanal listeleri by e2TURK
 - liste sıralamasında öncelik yüksek çözünürlüklü (HD) kanallara verilmiştir
 
  **e2TURK |** ***by thawtes***
+
+![e2TURK_KL](https://pbs.twimg.com/media/EXR2z6xXsAIf9OZ?format=png)
